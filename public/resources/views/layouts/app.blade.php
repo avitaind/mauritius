@@ -47,19 +47,23 @@
     <script>try{Typekit.load();}catch(e){}</script>
     
     
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133345635-5"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128035503-13"></script>
+
 <script>
+
   window.dataLayer = window.dataLayer || [];
+
   function gtag(){dataLayer.push(arguments);}
+
   gtag('js', new Date());
 
-  gtag('config', 'UA-133345635-5');
-</script>
+ 
 
+  gtag('config', 'UA-128035503-13');
+
+</script>
 
     <!-- End  Global site tag (gtag.js) - Google Analytics  -->
 
