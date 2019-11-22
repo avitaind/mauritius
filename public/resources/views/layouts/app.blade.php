@@ -44,8 +44,7 @@
     <link type="text/css" rel="stylesheet" href="{{ asset('css/global.css') }}"/>
 
 
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWQCKIl7B4w27KcSW-tW4ja_Rk4SbcPnk&callback=initMap" type="text/javascript"></script>
-   
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWQCKIl7B4w27KcSW-tW4ja_Rk4SbcPnk&callback=initMap" type="text/javascript"></script>
     <script src="{{asset('/js/support.js')}}"></script>
 
     <script src="//use.typekit.net/wpk4iql.js"></script>
@@ -57,15 +56,9 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128035503-13"></script>
 
 <script>
-
   window.dataLayer = window.dataLayer || [];
-
   function gtag(){dataLayer.push(arguments);}
-
   gtag('js', new Date());
-
- 
-
   gtag('config', 'UA-128035503-13');
 
 </script>
