@@ -192,15 +192,10 @@
 
 @section('js')
 
-	<script src="/js/support.js"></script>
-
+	
 	<script>
-
-
 		var init_data = <?php echo json_encode($json_data); ?>;
-
 		function reload_driver_list( ) {
-
 		    var product_number = $("#product_number_field").val();
 
 		    if (product_number != null) {
@@ -216,5 +211,8 @@
 
 
 	</script>
+ <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWQCKIl7B4w27KcSW-tW4ja_Rk4SbcPnk&callback=initMap">  </script>
+    <script src="{{asset('/js/support.js')}}"></script>
+
 
 @stop
