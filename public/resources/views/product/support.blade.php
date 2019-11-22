@@ -188,7 +188,7 @@
 
 </main>
 
-@stop
+@endsection
 
 @section('js')
 
@@ -211,8 +211,8 @@
 
 
 	</script>
- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWQCKIl7B4w27KcSW-tW4ja_Rk4SbcPnk&callback=initMap">  </script>
+ 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWQCKIl7B4w27KcSW-tW4ja_Rk4SbcPnk&callback=initMap">  </script>
     <script src="{{asset('/js/support.js')}}"></script>
 
 
-@stop
+@endsection
