@@ -102,31 +102,19 @@ function twitterLinkForCountry( $country ) {
     }
 }
 
+
 function metaKeywordByCountryAndLanguage( $country, $language ) {
 
     // Default
     $keyword = "AVITA LIBER 12.5\", Core i5 Intel CPU, Windows Hello, fingerprint, USB 3.0 ports, USB Type-C, USB-C";
 
     switch ( $country ) {
-        case 'hk':
-            if ( $language == 'tc') {
-                $keyword = "AVITA LIBER 12.5\", Core i5 Intel CPU, Windows Hello, 指紋辨識, USB 3.0連接埠, USB Type-C, USB-C";
-            } else {
+        case 'bd':
+		    {
                 $keyword = "AVITA LIBER 12.5\", Core i5 Intel CPU, Windows Hello, fingerprint, USB 3.0 ports, USB Type-C, USB-C";
             }
             break;
-        case 'cn':
-            $keyword = 'AVITA LIBER 12.5&quot;, Core i5 Intel CPU, Windows Hello, 指纹辨识, USB 3.0连接埠, USB Type-C, USB-C';
-            break;
-        case 'th':
-            $keyword = 'AVITA LIBER 12.5&quot;, Core i5 Intel CPU, Windows Hello, fingerprint, USB 3.0 ports, USB Type-C, USB-C';
-            break;
-
-        case 'id':
-            if ( $language = 'id') {
-                $keyword = 'AVITA LIBER 12.5&quot;, Core i5 Intel CPU, Windows Hello, sidik jari, USB 3.0 ports, USB Type-C, USB-C';
-                break;
-            }
+ 
     }
 
     return $keyword;
@@ -135,39 +123,21 @@ function metaKeywordByCountryAndLanguage( $country, $language ) {
 function metaDescriptionByCountryAndLanguage( $country, $language ) {
 
     // Default
-    $description = "LIBER is a new journey of self-discovery through art and humanity in technology.  Where the form of a laptop remains, it on top features chic and interchangeable form factors to reveal your true colors.";
+    $description = "AVITA is a US based smart technology firm which prides itself on its elegant and highly efficient catalog of gadgets which transcend various categories. These gadgets not only make your work life balance tenable but augment your personality as well.";
 
     switch ( $country ) {
-        case 'hk':
-            if ( $language == 'tc') {
-                $description = "LIBER是一趟發掘自我的全新旅程，是藝術、人文與科技的結合體。科技產品不一定只有一種個性，而應該更具靈性。LIBER不止是一台筆記型電腦。加入我們，認識更精彩的自己。";
-            } else {
-                $description = "LIBER is a new journey of self-discovery through art and humanity in technology.  Where the form of a laptop remains, it on top features chic and interchangeable form factors to reveal your true colors.";
+        case 'bd':
+           {
+                $description = "AVITA is a US based smart technology firm which prides itself on its elegant and highly efficient catalog of gadgets which transcend various categories. These gadgets not only make your work life balance tenable but augment your personality as well.";
             }
             break;
-        case 'cn':
-            $description = 'LIBER是一趟发掘自我的全新旅程，是艺术、人文与科技的结合体。科技产品不一定只有一种个性，而应该更具灵性。 LIBER不止是一台笔记型电脑。加入我们，认识更精彩的自己。';
-            break;
-        case 'th':
-
-            if ( $language == 'en') {
-                $description = "LIBER is a new journey of self-discovery through art and humanity in technology.  Where the form of a laptop remains, it on top features chic and interchangeable form factors to reveal your true colors.";
-            } else {
-                $description = 'LIBER คือการเดินทางแห่งการค้นพบตัวเองแบบใหม่ผ่านศิลปะและมนุษยธรรมในเทคโนโลยี ที่ที่ฟอร์มของแล็ปท็อปยังคงอยู่ แต่เพิ่มความ chic และ ฟอร์มที่ปรับเปลี่ยนได้เพื่อดึงความเป็นคุณออกมาอย่างชัดเจน';
-            }
-
-            break;
-
-        case 'id':
-            if ( $language = 'id') {
-                $keyword = 'LIBER adalah sebuah perjalanan mencari jati diri melalui seni dan sisi kemanusiaan didalam teknologi, Dalam bentuk sebuah laptop dengan fitur utama yang menawan dan dapat diganti demi menunjukan siapa sesungguhnya diri kita.';
-                break;
-            }
+    
     }
 
     return $description;
 
 }
+
 
 
 function googleAnalyticCode( $country ) {
