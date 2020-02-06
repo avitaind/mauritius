@@ -156,6 +156,7 @@
                 <ul class="product-statement-list py-2 py-sm-5 mx-auto ls-0 pl-4 py-0 mt-0 mt-sm-5">
 				@lang('magus.terms')
                 </ul>
+		   <span><small style="float:right;">*Under Test Conditions</small></span><br/>
             </div>
         </section>
 
