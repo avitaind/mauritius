@@ -7,7 +7,7 @@ return [
 	'inside-out'               			=> 'Inside-out Vibrancy',
 	'inside-out-detail'               	=> 'MAGUS combines minimalistic design with a metallic casing. Be it in tablet form or laptop mode, MAGUS allows users to express their personal styles with the four color options available – Seashell Pink, Steel Blue, Charcoal Grey, and Pastel Violet.',
 	'accommodate'               		=> 'Accommodate daily work and entertainment needs',
-	'accommodate-detail'               	=> 'MAGUS can run a variety of Windows applications with battery life up to eight hours. It has a microSDXC card reader built in, equipped with a 3.5mm audio jack, a mini HDMI port and a USB 3.0 interface, taking care of the users\' needs in every way possible.',
+	'accommodate-detail'               	=> 'MAGUS can run a variety of Windows applications with battery life up to eight hours*. It has a microSDXC card reader built in, equipped with a 3.5mm audio jack, a mini HDMI port and a USB 3.0 interface, taking care of the users\' needs in every way possible.',
 	
 	'promo'               			=> 'AVAILABLE NOW',
 	'promo-detail'               	=> '<h3>Purchase by 6 March 23:59, you can save HK$200 and get 3 Bonus Freebies.</h3><span style="font-size:13px;">Terms and conditions apply and is subject to change without prior notice.</span></br>',
