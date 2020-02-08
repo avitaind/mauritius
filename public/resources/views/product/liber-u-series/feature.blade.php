@@ -200,7 +200,7 @@
                         </div>
                         <div class="col-12 col-lg-7">
                             <div class="battery-wrap d-flex align-items-center">
-                                <div class="badge-caption">Up to <span class="badge-value px-1">10</span> hrs<br>Battery life</div>
+                                <div class="badge-caption">Up to <span class="badge-value px-1">10</span> hrs*<br>Battery life</div>
                             </div>
                             <div class="banner-data d-flex flex-wrap justify-content-center ls-0">
                                 <div class="data-card">
