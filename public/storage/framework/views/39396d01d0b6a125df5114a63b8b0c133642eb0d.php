@@ -43,23 +43,25 @@
     <link type="text/css" rel="stylesheet" href="<?php echo e(asset('css/font-awesome.min.css')); ?>"/>
     <link type="text/css" rel="stylesheet" href="<?php echo e(asset('css/global.css')); ?>"/>
 
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWQCKIl7B4w27KcSW-tW4ja_Rk4SbcPnk&callback=initMap" type="text/javascript"></script>
+    <script src="<?php echo e(asset('/js/support.js')); ?>"></script>
+
     <script src="//use.typekit.net/wpk4iql.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
     
     
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133345635-5"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128035503-13"></script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+  gtag('config', 'UA-128035503-13');
 
-  gtag('config', 'UA-133345635-5');
 </script>
-
 
     <!-- End  Global site tag (gtag.js) - Google Analytics  -->
 

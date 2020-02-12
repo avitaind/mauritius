@@ -121,7 +121,7 @@
         
         <section style="background-color:#f0f0f0">
             <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-            <iframe src="https://www.youtube.com/embed/ExOYYBDDOIw" 
+            <iframe src="https://www.youtube.com/embed/wHXTmPKLpGw" 
             frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-pictur" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
            </div>
         </section>
@@ -154,6 +154,7 @@
                 <ul class="product-statement-list py-2 py-sm-5 mx-auto ls-0 pl-4 py-0 mt-0 mt-sm-5">
 				<?php echo app('translator')->getFromJson('magus.terms'); ?>
                 </ul>
+		   <span><small style="float:right;">*Under Test Conditions</small></span><br/>
             </div>
         </section>
 

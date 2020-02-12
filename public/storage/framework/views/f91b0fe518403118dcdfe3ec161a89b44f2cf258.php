@@ -196,7 +196,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Battery Life</div>
-                                <div>Up to 8 hours</div>
+                                <div>Up to 8 hours*</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Material</div>
@@ -290,7 +290,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Battery Life</div>
-                                <div>Up to 10 hours</div>
+                                <div>Up to 10 hours*</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Material</div>
@@ -384,7 +384,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Battery Life</div>
-                                <div>Up to 10 hours</div>
+                                <div>Up to 10 hours*</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Material</div>
@@ -477,7 +477,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Battery Life</div>
-                                <div>Up to 10 hours</div>
+                                <div>Up to 10 hours*</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Material</div>
@@ -572,7 +572,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Battery Life</div>
-                                <div>Up to 10 hours</div>
+                                <div>Up to 10 hours*</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Material</div>
@@ -604,7 +604,9 @@
                     <li>Colors of actual products may differ from product shots due to photography lighting or display setting of your viewing device.</li>
                     <li>We try our best to provide accurate and complete product information online yet we reserve the rights to keep, change or correct any information without further notice.</li>
                     <li>Windows is either registered trademark or trademark of Microsoft Corporation in the United States and/or other countries.</li>
-                </ul>
+                    <li>*Under Test Conditions</li>
+
+</ul>
             </div>
         </section>
 

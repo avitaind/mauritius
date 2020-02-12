@@ -70,7 +70,7 @@
                     <button class="btn btn-primary d-block mt-3 mt-sm-0 mt-md-0 mx-auto ml-md-3" type="submit"><?php echo app('translator')->getFromJson('site.home_subscribe'); ?></button>
                 </div>
             </div>
-        </form>
+        </form> 
         <p style="text-align: center;"><a href="/Avita-Mauritius-Brochure.pdf" target="_blank" download="/Avita-Mauritius-Brochure.pdf"><button class="btn btn-primary btn-lg " type="button">Download Brochure </button></a></p>
     </section>
 
