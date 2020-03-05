@@ -143,20 +143,11 @@ function metaDescriptionByCountryAndLanguage( $country, $language ) {
 function googleAnalyticCode( $country ) {
 
     switch ( $country ) {
-        case 'id' : return "UA-128035503-8";
-        case 'ph' : return "UA-128035503-9";
-        case 'vn' : return 'UA-128035503-7';
-        case 'cn' : return 'UA-128035503-10';
-        case 'in' : return 'UA-128035503-6';
-        case 'my' : return 'UA-128035503-3';
-        case 'sg' : return 'UA-128035503-5';
-        case 'tw' : return 'UA-128035503-4';
-        case 'th' : return 'UA-128035503-11';
-
+        case 'mu' : return "UA-128035503-13";
     }
 
 
-    return 'UA-106387992-1';    // Default
+    return 'UA-106387992-13';    // Default
 
 
 }
