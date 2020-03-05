@@ -18,7 +18,7 @@
                         <div class="col-sm-6">
                             <h2 class="contact_us_title">Sales Enquiry :</h2>
 
-                            <div class="mb-2">+230 4633 869</div>
+                            <div class="mb-2">(+230) 463-3869</div>
 
                             <div class="mb-2"><b>Email :</b><br>
                                 info@techstation.mu</div>
