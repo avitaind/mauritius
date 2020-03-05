@@ -54,8 +54,11 @@
 
                                 </div>
                             </form>
-                              <br/>
-                      <!--  <img src="/images/contact.png" style="width:350px;">-->
+                              
+                       <br/>
+                            <div class="mb-2"><b>Email :</b> mu_support@avita.com </div>
+                            <div class="mb-2"><b>General Query :</b> (+230) 463-3869</div>
+
 
                         </div>
                     </div>
