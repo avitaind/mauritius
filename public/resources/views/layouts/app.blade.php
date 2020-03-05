@@ -44,7 +44,7 @@
     <link type="text/css" rel="stylesheet" href="{{ asset('css/global.css') }}"/>
 
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-nJUpMSCzA84jIss1RPTkzZSS3Sz1thc&callback=initMap" type="text/javascript"></script>
+   <!--- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-nJUpMSCzA84jIss1RPTkzZSS3Sz1thc&callback=initMap" type="text/javascript"></script> --->
     <script src="{{asset('/js/support.js')}}"></script>
 
     <script src="//use.typekit.net/wpk4iql.js"></script>
