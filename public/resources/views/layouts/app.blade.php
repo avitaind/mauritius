@@ -45,11 +45,9 @@
 
 
    <!--- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-nJUpMSCzA84jIss1RPTkzZSS3Sz1thc&callback=initMap" type="text/javascript"></script> --->
-    <script src="{{asset('/js/support.js')}}"></script>
+  
 
-    <script src="//use.typekit.net/wpk4iql.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
-    
+  
     
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
@@ -91,6 +89,10 @@
     @stack('css')
     @yield('css')
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+   <script src="{{asset('/js/support.js')}}"></script>
+     <script src="//use.typekit.net/wpk4iql.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    
 </head>
 <body class="lang_{{$lang}} country_{{ $country }}">
 
