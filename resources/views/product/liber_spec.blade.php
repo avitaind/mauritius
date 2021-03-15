@@ -147,7 +147,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
-                                <div>12.5" FHD (1920x1080) IPS</div>
+                                <div>12.5 FHD (1920x1080) IPS</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Memory</div>
@@ -241,7 +241,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
-                                <div>13.3" FHD (1920x1080)</div>
+                                <div>13.3  FHD (1920x1080)</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Memory</div>
@@ -335,7 +335,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
-                                <div>14" FHD (1920x1080)</div>
+                                <div>14  FHD (1920x1080)</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Memory</div>
@@ -433,7 +433,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
-                                <div>13.3" FHD IPS (1920 x 1080)</div>
+                                <div>13.3  FHD IPS (1920 x 1080)</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Memory</div>
@@ -530,7 +530,7 @@
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Display</div>
-                                <div>14" FHD IPS (1920 x 1080)</div>
+                                <div>14  FHD IPS (1920 x 1080)</div>
                             </li>
                             <li class="spec-item d-flex">
                                 <div class="offset-md-1 col-4 col-md-3">Memory</div>
