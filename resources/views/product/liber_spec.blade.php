@@ -18,7 +18,7 @@
 
                         @if ($HAVE_LIBER_U)
                         <a class="col text-center nav-link active" data-toggle="tab" href="#spec-4" role="tab">
-                            <div class="spec-item-name mb-4"><div class="d-sm-block">AVITA LIBER New Generation</div><div class="d-sm-block">(13.3-inch)</div></div>
+                            <div class="spec-item-name mb-4"><div class="d-sm-block">AVITA LIBER New Generation</div><div class="d-sm-block">(13.3 cm)</div></div>
                             <img class="hidden-sm-down" src="/images/liber/u13/lightpurple.png">
                             <ul class="list-unstyled spec-color-list d-flex flex-wrap align-items-center justify-content-center mt-4 ">
                                 <li style="background-color: #c5c2d9" class="active" data-image="/images/liber/u13/lightpurple.png"></li>
@@ -38,7 +38,7 @@
                             </ul>
                         </a>
                         <a class="col text-center nav-link" data-toggle="tab" href="#spec-5" role="tab">
-                            <div class="spec-item-name mb-4"><div class="d-sm-block">AVITA LIBER New Generation</div><div class="d-sm-block">(14-inch)</div></div>
+                            <div class="spec-item-name mb-4"><div class="d-sm-block">AVITA LIBER New Generation</div><div class="d-sm-block">(35.56 cm)</div></div>
                             <img class="hidden-sm-down" src="/images/liber/u14/lightpurple.png">
                             <ul class="list-unstyled spec-color-list d-flex flex-wrap align-items-center justify-content-center mt-4">
                                 <li style="background-color: #c5c2d9" class="active" data-image="/images/liber/u14/lightpurple.png"></li>
@@ -96,7 +96,7 @@
                         </a>
                         ---->
                         <a class="col text-center nav-link" data-toggle="tab" href="#spec-2" role="tab">
-                            <div class="spec-item-name mb-4"><div class="d-sm-block">AVITA LIBER</div><div class="d-sm-block">(14-inch)</div></div>
+                            <div class="spec-item-name mb-4"><div class="d-sm-block">AVITA LIBER</div><div class="d-sm-block">(35.56 cm)</div></div>
                             <img class="hidden-sm-down" src="/images/liber/14/lightpurple.png">
                             <ul class="list-unstyled spec-color-list d-flex flex-wrap align-items-center justify-content-center mt-4">
                                 <li style="background-color: #c5c2d9" class="active" data-image="/images/liber/14/lightpurple.png"></li>
